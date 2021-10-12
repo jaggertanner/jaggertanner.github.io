@@ -1,11 +1,25 @@
 body { 
-    background:burlywood;
+    background: #0B0C10;
     font-family:Arial, Helvetica, sans-serif;
+}
+
+.assignment
+{
+    display: flex;
+    padding: 10px;
+    background: #C5C6C7;
+    margin: 10px;
+}
+
+.assignment img
+{
+    width: 200px;
+    padding: 10px;
 }
 
 h1 {
     
     font-size:xx-large; 
-    color:rgb(73, 92, 41);
+    color: #66FCF1;
     text-align:center;
 }
