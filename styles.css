@@ -6,7 +6,11 @@ body {
 .assignments
 {
     display: flex;
-    flex-wrap:wrap;   
+    flex-wrap:wrap;  
+    background:rgb(151, 151, 150); 
+    border: 4px solid #7a7a7a;
+    border-radius: 8px;
+
 }
 
 .assignment
